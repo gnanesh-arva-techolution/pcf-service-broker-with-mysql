@@ -4,4 +4,4 @@ applications:
   buildpack: java_buildpack
   path: ./target/hashmap-service-broker-client-0.0.1-SNAPSHOT.jar
   services:
-  - hashmap-1-i
+  - hash-instance-1

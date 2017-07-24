@@ -16,7 +16,7 @@ public class HashServiceInfoCreator extends CloudFoundryServiceInfoCreator<HashS
     Logger logger = LoggerFactory.getLogger(HashServiceInfoCreator.class);
 
     public HashServiceInfoCreator() {
-        super(new Tags("hashmap-service"));
+        super(new Tags("HashBroker"));
         logger.info("In HashServiceInfoCreator constructor...");
     }
 
