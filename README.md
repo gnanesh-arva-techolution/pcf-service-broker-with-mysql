@@ -5,7 +5,7 @@
 Once the service broker is registered on CF any application developed for CF should be able to use the service.
 
 ## Pre-Requisite
--> Java 1.7 or higher, Pivotal Cloud Foundary PCF DEV, (MYSQL is not required here), CF CLI, VirtualBox: 5.0+
+-> Java 1.7 or higher, Pivotal Cloud Foundary PCF DEV, MYSQL, CF CLI, VirtualBox: 5.0+
 
 ## Steps
 -> First install the PCF DEV for your operating system as per the instructions provided in the url https://pivotal.io/academy/course/introduction-to-pivotal-cloud-foundry
